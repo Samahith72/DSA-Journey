@@ -10,9 +10,11 @@ Goal: Build strong Data Structures and Algorithms, problem-solving skills for so
 
 Problems Solved: 0
 
-Easy: 0
-Medium: 0
-Hard: 0
+| Type | solved |
+|---|---|
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0|
 
 Current Streak: 0 Days
 
