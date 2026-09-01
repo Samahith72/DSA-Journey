@@ -8,15 +8,15 @@ Goal: Build strong Data Structures and Algorithms, problem-solving skills for so
 
 # Progress
 
-Problems Solved: 0
+Problems Solved: 4
 
 | Type | solved |
 |---|---|
-| Easy | 0 |
-| Medium | 0 |
+| Easy | 2 |
+| Medium | 2 |
 | Hard | 0|
 
-Current Streak: 0 Days
+Current Streak: 1 Days
 
 ---
 
