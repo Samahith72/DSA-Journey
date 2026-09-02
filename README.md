@@ -8,26 +8,16 @@
 
 # Overall Progress
 
-**Problems Solved:** 4
+**Problems Solved:** 7
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| Easy    |      2 |
-| Medium  |      2 |
+| Easy    |      4 |
+| Medium  |      3 |
 | Hard    |      0 |
-| **Total**  |  **4** |
+| **Total**  |  **7** |
 
-**Current Streak:**  1 Day
-
----
-
-#  Daily Progress
-
-## September 2026
-
-| Day         | Problems Solved | Difficulty       | 
-| ----------- | --------------- | ---------------- | 
-| September 1 | 4 Problems      | 2 Easy, 2 Medium | 
+**Current Streak:**  2 Day
 
 ---
 
