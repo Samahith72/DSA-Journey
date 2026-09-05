@@ -1,6 +1,4 @@
-# My 4-Month DSA Journey
-
-**Start Date:** September 1, 2026
+# DSA Journey
 
 **Goal:** Build strong Data Structures and Algorithms knowledge and improve my problem-solving skills for software engineering interviews.
 
@@ -8,16 +6,16 @@
 
 # Overall Progress
 
-**Problems Solved:** 13
+**Problems Solved:** 16
 
 | Difficulty | Solved |
 | ---------- | -----: |
 | Easy    |      5 |
-| Medium  |      7 |
-| Hard    |      1 |
-| **Total**  |  **13** |
+| Medium  |      9 |
+| Hard    |      2 |
+| **Total**  |  **16** |
 
-**Current Streak:**  4 Day
+**Current Streak:**  5 Day
 
 ---
 
