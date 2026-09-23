@@ -6,16 +6,16 @@
 
 # Overall Progress
 
-**Problems Solved:** 47
+**Problems Solved:** 50
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| Easy    |      25 |
+| Easy    |      28 |
 | Medium  |      17 |
 | Hard    |       5 |
-| **Total**  |  **47** |
+| **Total**  |  **50** |
 
-**Current Streak:**  18 Day
+**Current Streak:**  19 Day
 
 ---
 
