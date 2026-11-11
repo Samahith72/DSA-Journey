@@ -6,7 +6,7 @@
 
 # Overall Progress
 
-**Problems Solved:** 119
+**Problems Solved:** 122
 
 | Difficulty | Solved |
 | ---------- | -----: |
