@@ -10,12 +10,12 @@
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| Easy    |      49 |
+| Easy    |      52 |
 | Medium  |      55 |
 | Hard    |      15 |
-| **Total**  |  **119** |
+| **Total**  |  **122** |
 
-**Current Streak:**  49 Day
+**Current Streak:**  50 Day
 
 ---
 
@@ -39,31 +39,16 @@
 
 * Linked Lists
 * Stacks
+
+---
+
+## November — Core Data Structures
+
+**Focus:**
+
+* Bit Manipulation
 * Queues
-* Binary Search
-* Recursion
-
----
-
-## November — Advanced Data Structures & Algorithms
-
-**Focus:**
-
-* Trees
-* Heaps
-* Graphs
-* Greedy
-
----
-
-## December — Interview Preparation
-
-**Focus:**
-
-* Dynamic Programming
-* Backtracking
-* Advanced Patterns
-* Interview Revision
+* Searching + Sorting
 
 ---
 
